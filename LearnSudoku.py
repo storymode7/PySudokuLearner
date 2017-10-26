@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-#Python Project
-#No input for number towards the end
-#No variable storing the result of os.system("clear")
-#No : in the else statements
 import os  #To clear screen using os.system("clear")
 print("Hey !")
 print("Up for something?")
